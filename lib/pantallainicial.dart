@@ -8,7 +8,7 @@ class PantallaInicial extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Pantalla Inicial',
+          'Pantalla Inicial Corona',
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,
